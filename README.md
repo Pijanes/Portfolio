@@ -14,4 +14,6 @@ realized with Scikit-Learn (also Hyper Parameter Optimiziation and Evaluation wi
 As a result you can check out the graph of a Decisison Tree Classifier, that shows the probalitities of surviving/non-surviving 
 the Titanic catastrophe according to features of passengers.
 
+Regression: work in progress
+
 
