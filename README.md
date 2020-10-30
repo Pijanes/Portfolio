@@ -8,7 +8,7 @@ As a result you can check out the animated_gif_gapminder, that shows the dynamic
 
 Classification:
 
-Here you can find some ML with a Dataset from Titanic Passengers, including Logistic Regression/Decision Tree/Random Forest, 
+Here you can find some ML with a Dataset from Titanic Passengers, including Logistic Regression/Decision Tree/Random Forest/SVM(SVC), 
 realized with Scikit-Learn (also Hyper Parameter Optimiziation and Evaluation with confusion matrix/cross-validation/AUC/ROC).
 
 As a result you can check out the graph of a Decisison Tree Classifier, that shows the probalitities of surviving/non-surviving 
