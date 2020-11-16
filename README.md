@@ -14,6 +14,20 @@ realized with Scikit-Learn (also Hyper Parameter Optimiziation and Evaluation wi
 As a result you can check out the graph of a Decisison Tree Classifier, that shows the probalitities of surviving/non-surviving 
 the Titanic catastrophe according to features of passengers.
 
-Regression: work in progress
+Regression:
 
+Here you can find a business case with Data Exploration/Data Wrangling/Feature Engineering using time series in panda 
+and ML using cross-validation for testing, Polynominal Features for training the model and Regularisation 
+with Ridge/Lasso/ElasticNet for optimizing the model.
+As a result you can check out a user interface for prediction, using the trained linear regression model.
+
+Text Classification: work in progress
+
+Time Series Analysis: work in progress
+
+Markov Simulation: work in progress
+
+Deep Learning: work in progress
+
+Recommender Systems: work in progress
 
