@@ -21,13 +21,13 @@ and ML using cross-validation for testing, Polynominal Features for training the
 with Ridge/Lasso/ElasticNet for optimizing the model.
 As a result you can check out a user interface for prediction, using the trained linear regression model.
 
-Text Classification: work in progress
+(Text Classification: work in progress)
 
-Time Series Analysis: work in progress
+(Time Series Analysis: work in progress)
 
-Markov Simulation: work in progress
+(Markov Simulation: work in progress)
 
-Deep Learning: work in progress
+(Deep Learning: work in progress)
 
-Recommender Systems: work in progress
+(Recommender Systems: work in progress)
 
